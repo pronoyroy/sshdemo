@@ -1,1 +1,2 @@
 Hi there...I'm a text file
+\nLine 1 : Adding a line here
